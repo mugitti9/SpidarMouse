@@ -23,3 +23,14 @@ Visual Studioを利用してコーディング＆exeファイル作成を行っ�
 
 # その他詳細
 実際の報告書(名前にマスクあり)は[こちら](https://github.com/mugitti9/SpiderMouse_Rhythm/blob/master/報告書.pdf)にある。アルゴリズムの詳細などが書かれている。
+
+# 動作方法
+①下記サイトに沿ってDxLibをVisual Studioに設定
+https://dxlib.xsrv.jp/dxuse.html
+②動かす
+
+# 動作確認環境
+Windows 10
+機種名　Lenovo ideapad S340(製品番号：81NB0029JP)
+開発環境　Visual Studio Community 2017
+動作確認した端末情報(機種名, OS バージョン)などもご説明ください
