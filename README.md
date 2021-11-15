@@ -33,4 +33,3 @@ https://dxlib.xsrv.jp/dxuse.html
 Windows 10
 機種名　Lenovo ideapad S340(製品番号：81NB0029JP)
 開発環境　Visual Studio Community 2017
-動作確認した端末情報(機種名, OS バージョン)などもご説明ください
